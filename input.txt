@@ -1,0 +1,4 @@
+This is an example text file.
+It contains multiple lines of text.
+Node.js will read this file, modify its content, and write it to another file.
+Have a great day!
